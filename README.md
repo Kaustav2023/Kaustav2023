@@ -13,17 +13,17 @@
 
 - 🔭 I’m currently working on a **New Project**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Web Development Project**
+- 👯 I’m looking to collaborate on **Data Science Project**
 
 - 🤝 I’m looking for help with **Competitive Programming Journey**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaustav2023](https://github.com/Kaustav2023)
 
-- 💬 Ask me about **Data Structures and Algorithm**
+- 💬 Ask me about **Data Structures and Algorithm And Data Science**
 
-- 📫 How to reach me **kaustavdey2015@gmail.com**
+- 📫 How to reach me **imkd2019@gmail.com**
 
 - ⚡ Fun fact **I am a fitness freak, with a cheeky sense of humor.**
 
