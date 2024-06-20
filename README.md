@@ -44,5 +44,6 @@
 <p></p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav2023&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav2023&theme=chartreuse-dark)
+
 
