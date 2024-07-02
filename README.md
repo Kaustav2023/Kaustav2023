@@ -46,7 +46,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav2023&theme=chartreuse-dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaustav2023&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaustav2023&theme=radical&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaustav2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
