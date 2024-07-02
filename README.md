@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithm And Data Science**
 
-- 📫 How to reach me **imkd2019@gmail.com**
+- 📫 How to reach me **kaustavdey2015@gmail.com**
 
 - ⚡ Fun fact **I am a fitness freak, with a cheeky sense of humor.**
 
@@ -46,4 +46,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav2023&theme=chartreuse-dark)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaustav2023&theme=dark&hide_border=false)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kaustav2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
